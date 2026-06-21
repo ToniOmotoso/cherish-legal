@@ -4,7 +4,7 @@ Welcome! Cherish is an intentional connection app that helps you stay in touch w
 
 ## Contact
 
-📧 **Email:** [infocherishtheapp@gmail.com]
+📧 **Email:** infocherishtheapp@gmail.com
 
 We try to respond within 2-3 business days. Cherish is a small project, so please bear with us.
 
@@ -63,7 +63,7 @@ Yes. Go to the **Me** tab. Tap **Edit**. Change anything in your profile — nam
 
 ### How do I report a bug?
 
-Email us at [infocherishtheapp@gmail.com] with:
+Email us at infocherishtheapp@gmail.com with:
 
 - What you were doing when it happened
 - What you expected to happen

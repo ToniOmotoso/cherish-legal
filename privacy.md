@@ -71,4 +71,4 @@ If we add cloud sync, accounts, or any data collection in future versions, this 
 
 For questions about this privacy policy or about Cherish:
 
-📧 **Email:** [infocherishtheapp@gmail.com]
+📧 **Email:** infocherishtheapp@gmail.com

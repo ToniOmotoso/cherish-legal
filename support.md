@@ -8,7 +8,7 @@ Welcome! Cherish is an intentional connection app that helps you stay in touch w
 
 We try to respond within 2-3 business days. Cherish is a small project, so please bear with us.
 
-(Replace the email above with your actual support email before publishing.)
+
 
 ---
 
